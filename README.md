@@ -7,34 +7,59 @@ As a first version of the project, you may find some bugs or feel incomplete. Mo
 Lilium is divided into 3 parts: Lucy, Kaede, and Nyuu (obviously inspired by GoldenEye, Mischa, and Petya, to my Elfen Lied theme).
 
 # Lucy
+
 Firmware: UEFI
+
 Windows: 10/11
+
 Dropper: Python (EFI/Microsoft/Boot)
+
 Tested: VirtualBox
+
 Algorithm: ChaCha20
+
 Hash: SHA-256
+
 Language: C++
+
 Compiler: VS2022
-Base: vathpela (Thanks to his repository I was able to create the EFI)
+
+Base: github.com/vathpela (Thanks to his repository I was able to create the EFI)
 
 # Kaede
+
 Firmware: BIOS
+
 Windows: 7/8/10
+
 Dropper: C++ (gcc) and Python
+
 Tested: VirtualBox
+
 Algorithm: Lightweight ARX stream cipher
+
 Hash: FNV-16b
+
 Language: ASM
+
 Compiler: NASM
 
 # Nyuu
+
 Firmware: BIOS
+
 Windows: XP
+
 Dropper: C++
+
 Tested: VirtualBox
+
 Algorithm: XOR
+
 Hash: FNV-16b
+
 Language: ASM
+
 Compiler: NASM and VS2022
 
 # Download
