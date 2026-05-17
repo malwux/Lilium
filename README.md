@@ -24,7 +24,7 @@ Language: C++
 
 Compiler: VS2022
 
-Base: [github.com/](https://github.com/vathpela) (Thanks to his repository I was able to create the EFI)
+Base: vathpela (Thanks to his repository I was able to create the EFI) -> [github.com/](https://github.com/vathpela)
 
 # Kaede
 
