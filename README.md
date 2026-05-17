@@ -73,3 +73,6 @@ _(I am not responsible for any damage caused; use a virtual machine)_
 
 Keys: https://mega.nz/file/ktV02RTY#SSqu_P-jBgF3QKkrCuLJFUdgiHOxm6XaEcxCh3b8L1k
 _(decrypter.exe id.txt key.pem/blob)_
+
+UEFI Project example: https://mega.nz/file/RoVzwLIY#JmMozMWV6R6j0bF4QVuykxcKnq10KtMocWHg9Mz4N8k
+_(named Bootrec purposely)_
