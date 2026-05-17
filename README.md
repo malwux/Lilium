@@ -44,7 +44,9 @@ Each variant has its own strengths and weaknesses, which is why this is the firs
 Well, that's all I have to say. It took me from the beginning of March to the end of April in 2026, but I planned the project over a year ago and always gave up. It's been an honor to at least finish the first version. Do I deserve a coffee?
 
 Lilium: https://mega.nz/file/NtkDkLhK#6libmiNPt48cPm9MJ6ww0Voy4rEEsVq4qhchZZ3SpGY
+
 (I am not responsible for any damage caused; use a virtual machine)
 
 Keys: https://mega.nz/file/ktV02RTY#SSqu_P-jBgF3QKkrCuLJFUdgiHOxm6XaEcxCh3b8L1k
+
 (decrypter.exe id.txt key.pem/blob)
