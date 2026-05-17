@@ -76,3 +76,5 @@ _(decrypter.exe id.txt key.pem/blob)_
 
 UEFI Project example: https://mega.nz/file/RoVzwLIY#JmMozMWV6R6j0bF4QVuykxcKnq10KtMocWHg9Mz4N8k
 _(named Bootrec purposely)_
+
+<img width="220" height="158" alt="clannad-fujibayashi-kyou" src="https://github.com/user-attachments/assets/aaa0448a-7fb5-4f13-b3fa-4ce0cef010af" />
