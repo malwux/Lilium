@@ -46,5 +46,5 @@ Well, that's all I have to say. It took me from the beginning of March to the en
 Lilium: https://mega.nz/file/NtkDkLhK#6libmiNPt48cPm9MJ6ww0Voy4rEEsVq4qhchZZ3SpGY
 (I am not responsible for any damage caused; use a virtual machine)
 
-Llaves: https://mega.nz/file/ktV02RTY#SSqu_P-jBgF3QKkrCuLJFUdgiHOxm6XaEcxCh3b8L1k
+Keys: https://mega.nz/file/ktV02RTY#SSqu_P-jBgF3QKkrCuLJFUdgiHOxm6XaEcxCh3b8L1k
 (decrypter.exe id.txt key.pem/blob)
