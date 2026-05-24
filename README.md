@@ -16,7 +16,9 @@ Dropper: Python (EFI/Microsoft/Boot)
 
 Tested: VirtualBox
 
-Algorithm: ChaCha20
+Symmetric Algorithm: ChaCha20
+
+Asymmetric Algorithm: ECC (x25519)
 
 Hash: SHA-256
 
@@ -36,7 +38,9 @@ Dropper: C++ (gcc) and Python
 
 Tested: VirtualBox
 
-Algorithm: Lightweight ARX stream cipher
+Symmetric Algorithm: Lightweight ARX stream cipher
+
+Asymmetric Algorithm: ECC
 
 Hash: FNV-16b
 
@@ -54,7 +58,9 @@ Dropper: C++
 
 Tested: VirtualBox
 
-Algorithm: XOR
+Symmetric Algorithm: XOR
+
+Asymmetric Algorithm: RSA 1024b
 
 Hash: FNV-16b
 
@@ -76,7 +82,7 @@ _(I am not responsible for any damage caused; use a virtual machine)_
 Keys: https://mega.nz/file/ktV02RTY#SSqu_P-jBgF3QKkrCuLJFUdgiHOxm6XaEcxCh3b8L1k
 _(decrypter.exe id.txt key.pem/blob)_
 
-UEFI Project example: https://mega.nz/file/RoVzwLIY#JmMozMWV6R6j0bF4QVuykxcKnq10KtMocWHg9Mz4N8k
+UEFI Project example: https://mega.nz/file/Up8jlYYZ#WNba85mdrRX0qPrO-ewd-PPsS7k1VIcTcRsGBUD1HsE
 _(named Bootrec purposely)_
 
 <img width="220" height="158" alt="clannad-fujibayashi-kyou" src="https://github.com/user-attachments/assets/aaa0448a-7fb5-4f13-b3fa-4ce0cef010af" />
