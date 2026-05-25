@@ -58,7 +58,7 @@ Dropper: C++
 
 Tested: VirtualBox
 
-Symmetric Algorithm: XOR
+Symmetric Algorithm: (None: passcode is used)
 
 Asymmetric Algorithm: RSA 1024b
 
