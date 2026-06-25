@@ -82,7 +82,7 @@ _(I am not responsible for any damage caused; use a virtual machine)_
 Keys: https://mega.nz/file/ktV02RTY#SSqu_P-jBgF3QKkrCuLJFUdgiHOxm6XaEcxCh3b8L1k
 _(decrypter.exe id.txt key.pem/blob)_
 
-UEFI Project example: https://mega.nz/file/Up8jlYYZ#WNba85mdrRX0qPrO-ewd-PPsS7k1VIcTcRsGBUD1HsE
+UEFI Project example: https://mega.nz/file/51dWHCRL#foaEZaPU8fvs-PvjF0kNcsb0K3hhecTbRCRzb9rtefU
 _(named Bootrec purposely)_
 
 <img width="220" height="158" alt="clannad-fujibayashi-kyou" src="https://github.com/user-attachments/assets/aaa0448a-7fb5-4f13-b3fa-4ce0cef010af" />
