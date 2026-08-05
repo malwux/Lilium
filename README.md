@@ -86,3 +86,5 @@ UEFI Project example: https://mega.nz/file/ZwcETZxS#naOmrwfsAuACbLtE7hqbm5hs-5kl
 _(named Bootrec purposely)_
 
 <img width="220" height="158" alt="clannad-fujibayashi-kyou" src="https://github.com/user-attachments/assets/aaa0448a-7fb5-4f13-b3fa-4ce0cef010af" />
+
+Update: Update: I was able to translate all the Python code to C++ for greater optimization, speed and the smallest possible size; it was a success, although there may be errors and bugs such as the error when trying to decrypt the MBR in Windows XP. The same cryptographic algorithms were used, adapted to C++ using Libsodium.
