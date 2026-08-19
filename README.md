@@ -8,7 +8,6 @@ Lilium is divided into 3 parts: Lucy, Kaede, and Nyuu (obviously inspired by Gol
 
 <img width="500" height="281" alt="tumblr_n5zbi6HXBf1tblxq9o1_500" src="https://github.com/user-attachments/assets/72883580-1fc6-4c26-976f-e18a0bb13254" />
 
-
 # Lucy
 
 Firmware: UEFI
